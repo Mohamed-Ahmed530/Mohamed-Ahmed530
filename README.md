@@ -33,7 +33,7 @@ I'm a Front-End Developer specializing in Angular, with practical experience in 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![NgRx](https://img.shields.io/badge/NgRx-B7178C?style=for-the-badge&logo=ngrx&logoColor=white)
-![Signals](https://img.shields.io/badge/Angular_Signals-DD0031?style=for-the-badge)
+![Angular Signals](https://img.shields.io/badge/Angular_Signals-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### 🎨 Styling
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -55,6 +55,8 @@ I'm a Front-End Developer specializing in Angular, with practical experience in 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-0A192F?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6C63FF?style=for-the-badge)
+
+---
 
 ## 🚀 Featured Projects
 
