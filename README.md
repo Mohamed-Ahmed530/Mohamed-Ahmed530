@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="60" alt="Laptop" />
 
 # Mohamed Ahmed  
-### Front-End Developer (Angular)
+### Front-End Developer
 
 🎯 Passionate about building modern, scalable & responsive web applications using **Angular**.
 
