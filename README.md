@@ -5,7 +5,7 @@
 # Mohamed Ahmed  
 ### Front-End Developer
 
-🎯 Passionate about building modern, scalable & responsive web applications using **Angular**.
+🎯 Passionate about building modern, scalable & responsive web applications using ****.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-fe/) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Mohamed-Ahmed530)  
